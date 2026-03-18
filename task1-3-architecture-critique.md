@@ -1,11 +1,3 @@
-
----
-
-## Part A: AI Critique Output
-
-The following is the AI-generated critical analysis of the hub-and-spoke
-architecture from Task 1.1.
-
 ---
 
 ### Critical Architecture Analysis — Hub-and-Spoke Design
