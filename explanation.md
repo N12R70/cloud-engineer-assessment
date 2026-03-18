@@ -55,6 +55,3 @@ The three mechanisms together ensure the security group configuration is
 always converging toward the compliant state, with complete audit evidence,
 regardless of the volume or frequency of attempted unauthorized modifications.
 
----
-
-*Word count: approximately 270 words (within 200-300 target)*
