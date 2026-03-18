@@ -182,20 +182,3 @@ flow diagram, six-week implementation roadmap with three phases, break-glass
 emergency access plan, and cost-benefit analysis with risk-adjusted values.]
 
 ---
-
-## Validation Steps Taken
-
-After each AI-generated output, I validated:
-
-**Mermaid.js diagrams:** Tested each code block in mermaid.live to confirm
-rendering without syntax errors.
-
-**Terraform code:** Reviewed IAM condition keys (`ec2:cidrBlock`,
-`aws:PrincipalArn`, `aws:MultiFactorAuthPresent`) against AWS documentation
-for correct syntax. Verified SCP content structure against the Organizations
-API specification.
-
-**Python Lambda:** Traced through the logic for both compliant and non-compliant
-cases, including the partial remediation failure path, to confirm the audit
-record and SNS payload would be correct in each case.
-
