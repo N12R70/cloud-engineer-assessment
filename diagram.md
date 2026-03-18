@@ -1,4 +1,3 @@
-# Task 2.2 — Preventive SCP Architecture
 
 ## Architecture Diagram — Policy Enforcement Points
 
@@ -45,11 +44,4 @@ flowchart TD
     style WORKFLOW fill:#f3e5f5,stroke:#6a1b9a,color:#4a148c
 ```
 
-## Policy Enforcement Summary
 
-| SCP | Applied To | Blocks | Allows Via |
-|-----|-----------|--------|-----------|
-| DenyPublicIngressRules | Prod + Dev OUs | 0.0.0.0/0 and ::/0 ingress | No exceptions — absolute deny |
-| RequireApprovedRole | Production OU only | All SG changes from non-approved principals | Assumption of sg-change-approved role |
-| RequireMFAForSG | Prod + Dev OUs | SG changes without MFA session | MFA-enabled sessions |
-| ProtectAuditInfra | Root (all accounts) | Deletion of CloudTrail, Config, GuardDuty | SecurityTeamAdmin role only |
