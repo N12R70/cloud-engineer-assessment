@@ -1,5 +1,3 @@
----
-
 ### Critical Architecture Analysis — Hub-and-Spoke Design
 
 #### Single Points of Failure (SPOF)
