@@ -1,4 +1,3 @@
-# Infrastructure Strategy — SCP Architecture for 10x Growth
 
 ## How the Preventive SCP Architecture Aligns with Infrastructure Strategy
 
@@ -126,4 +125,3 @@ workflow layer (tooling), not in the infrastructure layer (policies).
 
 ---
 
-*Word count: approximately 480 words (within 400-500 target)*
