@@ -1,11 +1,4 @@
-# Migrating to AWS IAM Identity Center
-## Technical Proposal
 
-**Prepared for:** Chief Technology Officer  
-**Company:** [Client Company]  
-**Prepared by:** Cloud Engineering Team  
-**Date:** 2026-03-18  
-**Classification:** Confidential
 
 ---
 
@@ -251,4 +244,3 @@ right answer is binary, not a tradeoff.
 
 ---
 
-*Prepared by the Cloud Engineering team. Questions to: cloudteam@example.com*
