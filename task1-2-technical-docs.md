@@ -1,12 +1,3 @@
-# AWS Hub-and-Spoke Network Architecture
-## Technical Documentation
-
-**Document version:** 1.0  
-**Author:** Cloud Engineering Team  
-**Date:** 2026-03-18  
-**Classification:** Internal — Compliance Foundry Assessment
-
----
 
 ## 1. Architecture Overview & Design Rationale
 
@@ -228,5 +219,4 @@ single global Transit Gateway mesh can span all commercial AWS regions.
 
 ---
 
-*Document maintained by the Platform Engineering team. Review quarterly or
-after any significant architecture change.*
+
