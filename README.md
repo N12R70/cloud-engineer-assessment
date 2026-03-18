@@ -1,10 +1,3 @@
-# Compliance Foundry — Cloud Engineer Technical Assessment
-
-**Candidate:** Cloud Engineer Applicant  
-**Position:** IC4/IC5 Cloud Engineer  
-**Company:** Compliance Foundry  
-**Date:** 2026-03-18  
-**Time Spent:** ~5 hours
 
 ---
 
