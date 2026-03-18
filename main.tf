@@ -1,8 +1,5 @@
 # =============================================================================
 # Task 2.2: Preventive SCP Architecture — Policy Enforcement Points
-# Compliance Foundry Technical Assessment
-# =============================================================================
-#
 # SCPs created:
 #   1. DenyPublicIngressRules       — blocks 0.0.0.0/0 and ::/0 absolutely
 #   2. RequireApprovedRoleForSGProd — production SG changes via approved role only
