@@ -40,17 +40,6 @@ compliance-foundry-assessment/
 
 ---
 
-## How to Use the Mermaid Diagrams
-
-All diagrams are in Mermaid.js format. To render them:
-
-1. Visit [mermaid.live](https://mermaid.live)
-2. Copy the code block contents from any `diagram.md` file
-3. Paste into the editor — the diagram renders immediately on the right
-
-Alternatively, GitHub renders Mermaid natively in markdown files (just view the file on github.com).
-
----
 
 ## Prompting Strategy
 
